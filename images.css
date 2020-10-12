@@ -1,0 +1,73 @@
+
+/*  Start Body CSS */
+body{
+    overflow-x: hidden;
+}
+/*  End Body CSS */
+
+/* Start Top Nav CSS */
+.navlist-end{
+    margin-right: 80px;
+}
+.navfloat>li{
+    display: inline;
+}
+
+/* End Top Nav CSS */
+
+/* Start of Searchbar CSS */
+.searchybar{
+    float: right;
+    text-decoration: none;
+}
+
+.searchybar + .searchybar{
+    padding-right: 10px;
+    padding-left: 5px;
+}
+
+/* End of Searchbar CSS */
+
+
+/* Start of Carousel CSS */
+
+.carousel-inner{
+    max-height: 500px !important;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.carousel-caption{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+}
+
+/* End of Carousel CSS */
+
+/* Start of Banner CSS */
+
+.bannerrow{
+    margin-top: 75px;
+}
+
+/* End of Banner CSS */
+
+/* Start of Featured CSS */
+
+.featuredcontainer{
+    margin-top: 75px;
+}
+
+.featuredheader{
+    text-align:center;
+    margin-top: 35px;
+}
+
+.featuredfooter{
+    text-align: center;
+}
+
+/* End of Featured CSS */
+
+/* Start of Bottom Nav CSS */
